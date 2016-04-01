@@ -1,0 +1,12 @@
+# carddata.txt previous balance
+25
+debits
+21.64
+123.324
+132
+credits
+-23
+-234.234
+fain /sdf2/rew
+7.340
+5

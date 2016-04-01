@@ -1,0 +1,13 @@
+account log:
+ignored:could not convert string to float: # carddata.txt previous balance
+data(25.000000).. processed
+ignored:could not convert string to float: debits
+data(21.640000).. processed
+data(123.324000).. processed
+data(132.000000).. processed
+ignored:could not convert string to float: credits
+data(-23.000000).. processed
+data(-234.234000).. processed
+ignored:could not convert string to float: fain /sdf2/rew
+data(7.340000).. processed
+data(5.000000).. processed
