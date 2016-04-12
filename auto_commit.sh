@@ -11,7 +11,7 @@
 ####################################################################
 
 commit_time=`date`
-/home/montella/codebae
+cd /home/montella/codebase
 git add *
 git commit -m "auto commit local code to github at $commit_time"
 git push
