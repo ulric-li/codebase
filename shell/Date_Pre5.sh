@@ -20,3 +20,8 @@ then
 fi
 
 echo ${vdatemn}
+
+# 获取指定时间
+# 下面命令可以得到20160501的7天前的日期
+sev=`date -d"7 day ago 20160501" +%Y%m%d`
+echo $sev
