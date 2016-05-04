@@ -16,5 +16,5 @@ except IOError as e:
 else:
 # display contents to the screen
     for eachline in fobj:
-        print (eachline, end = ' ')
+        print (eachline, end = '')
     fobj.close()
